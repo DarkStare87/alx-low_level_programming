@@ -21,7 +21,3 @@ int sum_them_all(const unsigned int n, ...)
 
 	return (sum);
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> e85e12a88d81b9a70f6c1cfe0d7786113dbd1fa0
