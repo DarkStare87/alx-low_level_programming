@@ -10,4 +10,7 @@ void print_strings(const char *separator, const unsigned int n, ...);
 void print_all(const char * const format, ...);
 
 #endif
+<<<<<<< HEAD
 
+=======
+>>>>>>> e85e12a88d81b9a70f6c1cfe0d7786113dbd1fa0
